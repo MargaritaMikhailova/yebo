@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Lato";}
+ 	
+@font-face {
+    font-family: 'open_sans_light';
+    src: url(../fonts/OpenSans-Light.ttf);
+}
+@font-face {
+    font-family: 'open_sans_bold';
+    src: url(../fonts/OpenSans-Bold.ttf);
+}
